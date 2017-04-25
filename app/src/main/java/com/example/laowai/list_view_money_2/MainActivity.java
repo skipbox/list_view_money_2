@@ -26,7 +26,7 @@ import android.support.v7.app.AppCompatActivity;
     public void but_3_xxx(View v){
         Button but_3_obj = (Button)findViewById(R.id.button3);
         but_3_obj.setText("this is button3");
-        Toast.makeText(this, "This is button button3", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "This is button button april 25 2:00pm", Toast.LENGTH_SHORT).show();
 
         ListView my_listview = (ListView)findViewById(R.id.id_lv);
 
